@@ -9,12 +9,14 @@ The objective list to keep things on track and so i know where to go next
 	design test room [done]
 	
 	harder basic mechanics
-		create the enemy
+		create the enemy [done]
 		create the battle room
 		design the battle room 
 		when collide with enemy, transport to battle room
 	pause - will continue in the combat system todo list
-	
+    	
+    Added source Control - Git Kraken [done]
+
 	start on 
 		create npc
 		create action button to interact with NPC
