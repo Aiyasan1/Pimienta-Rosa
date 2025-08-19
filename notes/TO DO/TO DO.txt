@@ -1,0 +1,30 @@
+The objective list to keep things on track and so i know where to go next 
+
+1 Basics Due Tueday 2 days- very simple game mechanics before unique game mechanics can be added
+	 create room [done]
+	 create player object [done]
+	 make player move 8 directions[done]
+		make sprite change [done]
+	make walls in room [done]
+	design test room [done]
+	
+	harder basic mechanics
+		create the enemy
+		create the battle room
+		design the battle room 
+		when collide with enemy, transport to battle room
+	pause - will continue in the combat system todo list
+	
+	start on 
+		create npc
+		create action button to interact with NPC
+		stop for production
+2. Productions/Plannning: Do on GDD 
+	Design the Charator Stats
+		What stats are they going to have? 
+		When to implement them
+	Design Dialog system
+		How shoould it look? 
+		What are the mechanics of it? 
+		When to implement?
+	Create new Todo list 
