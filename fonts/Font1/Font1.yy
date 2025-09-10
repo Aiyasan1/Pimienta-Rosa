@@ -134,10 +134,7 @@
   "sdfSpread":10,
   "size":18.0,
   "styleName":"Roman",
-  "textureGroupId":{
-    "name":"Default",
-    "path":"texturegroups/Default",
-  },
+  "textureGroupId":null,
   "TTFName":"",
   "usesSDF":false,
 }
