@@ -10,7 +10,8 @@ function create_dialog(_messages)
 char_colors = {
     "Congrats": c_yellow,
     "Cross": c_yellow,
-    "Test Player": c_lime
+    "Test Player": c_lime,
+    "Mike": c_orange
 }
 
 welcome_dialog = [
@@ -42,5 +43,17 @@ welcome_dialog = [
 {
     name: "Cross",
     msg: "But Hey! Keep going! Even if you have to constantly do tutorials."
+}
+]
+
+mike_dialog1 = [
+{
+    name: "Mike",
+    msg: "Be careful in there."
+},
+
+{
+    name: "Mike",
+    msg: "This is the test room so get moving."
 }
 ]
