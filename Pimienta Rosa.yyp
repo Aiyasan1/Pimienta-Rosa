@@ -57,8 +57,10 @@
     {"id":{"name":"obj_npc2","path":"objects/obj_npc2/obj_npc2.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"rm_battle_test","path":"rooms/rm_battle_test/rm_battle_test.yy",},},
+    {"id":{"name":"rm_TestLevel_2","path":"rooms/rm_TestLevel_2/rm_TestLevel_2.yy",},},
     {"id":{"name":"rm_TestLevel","path":"rooms/rm_TestLevel/rm_TestLevel.yy",},},
     {"id":{"name":"scr_dialog","path":"scripts/scr_dialog/scr_dialog.yy",},},
+    {"id":{"name":"spr_drawing","path":"scripts/spr_drawing/spr_drawing.yy",},},
     {"id":{"name":"spr_battle_screen","path":"sprites/spr_battle_screen/spr_battle_screen.yy",},},
     {"id":{"name":"spr_box","path":"sprites/spr_box/spr_box.yy",},},
     {"id":{"name":"spr_button_heavy","path":"sprites/spr_button_heavy/spr_button_heavy.yy",},},
@@ -87,6 +89,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_TestLevel","path":"rooms/rm_TestLevel/rm_TestLevel.yy",},},
+    {"roomId":{"name":"rm_TestLevel_2","path":"rooms/rm_TestLevel_2/rm_TestLevel_2.yy",},},
     {"roomId":{"name":"rm_battle_test","path":"rooms/rm_battle_test/rm_battle_test.yy",},},
   ],
   "templateType":"game",

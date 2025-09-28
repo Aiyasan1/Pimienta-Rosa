@@ -11,8 +11,21 @@ char_colors = {
     "Congrats": c_yellow,
     "Cross": c_yellow,
     "Test Player": c_lime,
-    "Mike": c_orange
+    "Mike": c_orange,
+    "Po": c_red
 }
+
+room1_end = [
+{
+    name: "Po",
+    msg: "You've made it to the end."
+},
+
+{
+    name: "Po",
+    msg: "Close your eyes and enter the temple."
+}
+]
 
 welcome_dialog = [
 {
