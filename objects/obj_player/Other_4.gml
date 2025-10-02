@@ -8,3 +8,8 @@ with (obj_carry_data)
     
     instance_destroy();
 }
+
+if(instance_exists(obj_camera)) exit;
+
+var _cam = instance_create_depth(0, 0, 0, obj_camera);
+_cam.target = self;   
